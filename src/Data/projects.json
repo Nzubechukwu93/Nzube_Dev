@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Login and Signup form",
+        "imageSrc": "projects/project.png",
+        "description": "The project is a web based application that allows users to create accounts,login, and has a forgot password link for account recovery",
+        "skills": ["React"],
+        "demo": "https://nzubechukwu93.github.io/React-form/",
+        "source": "https://github.com/Nzubechukwu93/React-form"
+    },
+    {
+        "title": "Weather App",
+        "imageSrc": "projects/project.png",
+        "description": "The app offers real-time data about the current weather information for a specific or multiple locations.",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "demo": "https://nzubechukwu93.github.io/Weather-App/",
+        "source": "https://github.com/Nzubechukwu93/Weather-App"
+    },
+    {
+        "title": "Image Search App",
+        "imageSrc": "projects/project.png",
+        "description": "Allows users to enter search queries for images, it shows the list of images that match the search query and displays images in a visually appealing manner.",
+        "skills": ["HTML", "CSS", "Javascript"],
+        "demo": "https://nzubechukwu93.github.io/Image-Search-App/",
+        "source": "https://github.com/Nzubechukwu93/Image-Search-App"
+    }
+    
+]
